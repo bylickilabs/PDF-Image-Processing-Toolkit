@@ -5,8 +5,12 @@
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
 
+<br>
+
 > [!NOTE]
-> Dieses Repository bündelt mehrere Python-Desktopanwendungen für die lokale Verarbeitung, Konvertierung und technische Analyse von PDF- und Bilddateien.
+> Lokales Python-Toolset zur Verarbeitung und Analyse von PDF- und Bilddateien.  
+  - Die Anwendungen arbeiten eigenständig innerhalb eines gemeinsamen Workflows.  
+  - Der Fokus liegt auf effizienter Dateiverarbeitung, technischer Analyse und lokaler Ausführung.
 
 ## Übersicht
 
@@ -14,6 +18,8 @@
   - Der Fokus liegt auf einer kompakten, lokal ausführbaren Werkzeug-Sammlung für PDF-, Bild- und Metadaten-Workflows.
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
+
+<br>
 
 ## Enthaltene Anwendungen
 
@@ -24,6 +30,8 @@
 > Die Anwendungen bleiben eigenständig nutzbar und werden innerhalb des Toolsets gemeinsam gepflegt und weiterentwickelt.
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
+
+<br>
 
 ## Technologie
 
@@ -40,6 +48,8 @@
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
 
+<br>
+
 ## Repository-Struktur
 
 ```text
@@ -53,6 +63,8 @@ README.md
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
 
+<br>
+
 ## Status
 
 - [x] Gemeinsames Toolset aufgebaut
@@ -62,6 +74,8 @@ README.md
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
 
+<br>
+
 ## Hinweis
 
 > [!NOTE]
@@ -69,6 +83,8 @@ README.md
   - Originaldateien sollten unabhängig davon vor produktiver Verarbeitung stets separat gesichert werden.
 
 ━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━
+
+<br>
 
 ## Lizenz
 
