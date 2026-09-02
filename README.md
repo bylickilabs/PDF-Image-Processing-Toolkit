@@ -86,7 +86,6 @@ README.md
 
 <br>
 
-## Lizenz
 
 [LICENSE](LICENSE)
 
